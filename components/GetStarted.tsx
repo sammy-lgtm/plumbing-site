@@ -3,12 +3,7 @@ import React from 'react';
 import { CallIcon, ExpertIcon, TruckIcon, ArrowRightLongIcon } from './Icons';
 
 const logos = [
-    "https://framerusercontent.com/images/73t720e5FqP2sQ31iAIbCFJ0s.png",
-    "https://framerusercontent.com/images/gO3n54y0s8OL26bW8cEjAlVd2g.png",
-    "https://framerusercontent.com/images/wHY08z45IrtSCkYI8pMUB0U.png",
-    "https://framerusercontent.com/images/i2zB5689P1lE3Vwy44JRMAIzQ.png",
-    "https://framerusercontent.com/images/43a5w83hp3V6xGFLg2LlCfr45A.png",
-    "https://framerusercontent.com/images/vV7oA8a287mEeROs5Yx8jY9s.png"
+    
 ];
 
 const steps = [
